@@ -21,7 +21,7 @@ SQL Queries: For data extraction, manipulation, and analysis
 
 ## Dataset
 
-The dataset for this project is a fictional music store database, which includes the following tables:                                    
+The dataset for this project is a music store database, which includes the following tables:                                    
 
 customers: Information about the customers.                                 
 invoices: Details of the invoices issued.                                     
