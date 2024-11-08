@@ -1,4 +1,4 @@
-# SQL Music Store Analysis
+# Digital Music Store Analysis SQL Project
 ![Screenshot (335)](https://github.com/user-attachments/assets/4f83d408-2a17-4adb-b0bf-0a60c44156ad)
 
 
