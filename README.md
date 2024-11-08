@@ -1,5 +1,6 @@
 # Digital Music Store Analysis SQL Project
-![image](https://github.com/user-attachments/assets/1f6d624b-a085-48d9-b180-884a9d830484)
+<img src="![image](https://github.com/user-attachments/assets/8de6fef2-74f4-4d0c-9962-7bfc2688cb24)
+" width="800"/>
 
 
 
